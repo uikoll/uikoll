@@ -1,16 +1,67 @@
-## Hi there 👋
 
-<!--
-**uikoll/uikoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="k-on.jfif" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=E8A0BF&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Uikole+%E2%99%A1;Welcome+to+my+little+world;Coding+and+Anime+%E2%99%A1;Stay+cozy%2C+keep+creating!">
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### About Me
+
+- Anime & music
+- Software development
+- C# / C++ / Rust / Python
+- Gaming & modding
+
+</td>
+<td valign="top">
+
+### Interests
+
+- Anime
+- Programming
+- Technology
+- Creative projects
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,rust,py,git,github,vscode,visualstudio&theme=dark">
+
+<br><br>
+
+### GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=uikoll&show_icons=true&theme=rose_pine&hide_border=true">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=uikoll&theme=radical&hide_border=true">
+
+<br>
+
+### Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uikoll&layout=compact&theme=rose_pine&hide_border=true">
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=uikoll&color=ffb6c1&style=for-the-badge">
+
+</div>
